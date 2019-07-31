@@ -1,4 +1,4 @@
 <?php
 
-echo 'Hello Line Msg';
+http_response_code(200);
 ?>
